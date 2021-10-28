@@ -1,0 +1,16 @@
+{
+  "name": "nhk-news-webeasy-api",
+  "version": "0.0.1",
+  "description": "api for getting news from the NHK website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "blue0x01",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1"
+  }
+}
